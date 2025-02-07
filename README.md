@@ -1,12 +1,14 @@
 # Full website Screenshot:
-![127 0 0 1_5500_Classes_Class%20-%2026%20( Project%20Class %20-%20One%20Page%20Restaurant%20Landing%20Page%20with%20Bootstrap)_index html_](https://github.com/user-attachments/assets/eb99c3b7-4481-4326-ba4b-b26c0212ae30)
+![127 0 0 1_5500_Classes_Class%20-%2026%20( Project%20Class %20-%20One%20Page%20Restaurant%20Landing%20Page%20with%20Bootstrap)_index html_](https://github.com/user-attachments/assets/3470b46e-e229-431d-923f-f5c5a874eca8)
+
+
 
 
 
 # Home Section:
 ![image](https://github.com/user-attachments/assets/f2b283cb-638e-400e-bd89-e9984d13f143)
 
-#About Section:
+# About Section:
 ![image](https://github.com/user-attachments/assets/2f801319-1d30-42f5-8f76-d31a14f02bb3)
 
 
