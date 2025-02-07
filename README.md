@@ -35,7 +35,8 @@
 ![image](https://github.com/user-attachments/assets/f1bc2ae3-49fc-4dbd-ae9b-2c8c4ab97858)
 
 # Mobile Mode (for responsive):
-![127 0 0 1_5500_index html](https://github.com/user-attachments/assets/6c84f893-420e-49c8-a581-02598b4b9219)
+![127 0 0 1_5500_index html (1)](https://github.com/user-attachments/assets/6bac3de2-e15d-4ae8-ad0d-2d5ae38f014b)
+
 
 
 
