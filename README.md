@@ -30,7 +30,7 @@
 # Special Section:
 ![image](https://github.com/user-attachments/assets/947e8230-913b-4f8b-8499-acd945aa3d63)
 
-#Contact Section:
+# Contact Section:
 ![image](https://github.com/user-attachments/assets/1325c661-da1b-4ff7-b48f-1ab7b6b6e7bf)
 
 # Footer:
